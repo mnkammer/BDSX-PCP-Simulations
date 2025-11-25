@@ -1,6 +1,7 @@
 numpy
+pandas
 scipy
 matplotlib
-pandas
-voila
+scikit-learn
 ipywidgets
+voila
